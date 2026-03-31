@@ -1,0 +1,12 @@
+Git & GitHub	31-03-2026
+=========================
+
+Git 	-	GUI - Graphical user interface , from local system - github (cloud)
+GitHub	-	collabration, centrilied codespace
+
+									project
+									|
+								
+						New project			Existing Project
+						
+cd -> change directory
